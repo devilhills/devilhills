@@ -1,6 +1,6 @@
-# 💻 Welcome to My Telegram Space
+# 💻 Welcome to My Space
 
-Hello there! 👋 I'm [Your Name or Alias], a passionate **Hacker**, **HR Officer**, and **Coder** with a love for problem-solving, creative coding, and building meaningful connections. Here's a glimpse of who I am and what I do.
+Hello there! 👋 I'm [Coder Buddy], a passionate **Hacker**, **HR Officer**, and **Coder** with a love for problem-solving, creative coding, and building meaningful connections. Here's a glimpse of who I am and what I do.
 
 ---
 
@@ -35,16 +35,16 @@ Hello there! 👋 I'm [Your Name or Alias], a passionate **Hacker**, **HR Office
 
 ## 📬 Let’s Connect!
 
-- Telegram: [@YourTelegramUsername](https://t.me/YourTelegramUsername)  
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
-- LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
-- Blog: [yourwebsite.com](https://yourwebsite.com)
+- Telegram: comming soon
+- GitHub:  comming soon
+- LinkedIn:comming soon
+- Blog: comming soon
 
 ---
 
 ## 🖤 Fun Fact
 
 > *"The best way to predict the future is to create it."*  
-> — Alan Kay
+
 
 **Join me on my journey to code the future, one line at a time.**
